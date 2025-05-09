@@ -23,8 +23,8 @@ export default function About() {
             如果您有任何问题或建议，欢迎通过以下方式联系我：
           </p>
           <ul className="list-disc pl-6 text-text-secondary">
-            <li>邮箱：your.email@example.com</li>
-            <li>GitHub：github.com/yourusername</li>
+            <li>邮箱：hughzkj@gmail.com</li>
+            <li>GitHub：github.com/Hughz74</li>
             <li>LinkedIn：linkedin.com/in/yourusername</li>
           </ul>
         </div>

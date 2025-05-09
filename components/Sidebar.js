@@ -45,7 +45,7 @@ export default function Sidebar() {
           <div className="mb-8 bg-secondary-bg/30 backdrop-blur-md p-4 rounded-lg">
             <h2 className="text-xl font-bold mb-4 text-text-primary">个人信息</h2>
             <div className="space-y-2 text-text-secondary">
-              <p>博主</p>
+              <p>赵戈</p>
               <p>全栈开发者</p>
               <p>热爱技术分享</p>
             </div>

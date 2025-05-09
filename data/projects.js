@@ -4,7 +4,7 @@ export const projects = [
     title: '个人博客系统',
     description: '使用 Next.js 和 Markdown 构建的现代化博客系统，支持文章管理、标签分类等功能。',
     technologies: ['Next.js', 'React', 'Markdown', 'Tailwind CSS'],
-    githubUrl: 'https://github.com/yourusername/blog',
+    githubUrl: 'https://github.com/Hughz74/blog.git',
     demoUrl: 'https://your-blog-url.com',
     imageUrl: '/images/projects/blog.png'
   },
